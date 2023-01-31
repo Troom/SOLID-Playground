@@ -1,0 +1,7 @@
+.vs/
+SingleResponsibilityPrinciple/obj/
+OpenClosePrinciple/obj/
+LiskovSubstitution/obj/
+InterfaceSegregationPrinciple/obj/
+DependencyInversionPrinciple/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+DependencyInversionPrinciple/obj/
